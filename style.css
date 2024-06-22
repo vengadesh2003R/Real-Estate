@@ -1,0 +1,72 @@
+div{
+    text-align: center;
+    font-family:"Ubuntu", sans-serif;
+    margin-top: 40px;
+    font-size: 20px;
+}
+main{
+    text-align: center;
+    font-family: 'Open Sans',sans-serif;
+    margin-top: 20px;
+    font-size: 30x;
+    width: 100%;
+    min-height: 100px;
+}
+.gallery{
+    width:230px;
+    height: 40vh;
+    display: inline-block;
+    padding:50px;
+    border-radius: 25px;
+    margin-left: 10px;
+    font-size:38px;
+    text-align: start;
+    color: rgb(255, 255, 255);
+
+    
+    
+}
+#photos1{
+    background-image: url(image-1.jpeg);
+    background-position: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top:  180px;
+    opacity: 0.95;
+}
+#photos2{
+    background-image: url(image-2.jpeg);
+    background-position: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 180px;
+    opacity: 0.95;
+
+}
+#photos3{
+    background-image: url(image-3.jpeg);
+    background-position: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 180px;
+    opacity: 0.95;
+
+}
+#photos4{
+    background-image: url(image-4.jpeg);
+    background-position: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 180px;
+    opacity: 0.95;
+
+}
+h5{
+    font-size: 20px;
+}
+h1{
+    font-size: 45px;
+}
+p{
+    font-size: 18px;
+}
